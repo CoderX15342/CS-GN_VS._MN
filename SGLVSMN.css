@@ -1,0 +1,45 @@
+#one{
+    background-color: red;
+}
+#two{
+    background-color: orange;
+}
+#three{
+    background-color: yellow;
+}
+#four{
+    background-color: green;
+}
+#five{
+    background-color: blue;
+}
+#six{
+    background-color: indigo;
+}
+#seven{
+    background-color: violet;
+}
+#eight{
+    background-color: pink;
+}
+#nine{
+    background-color: brown;
+}
+#ten{
+    background-color: gray;
+}
+h5{
+    background-color: white;
+    border-radius: 120px;
+}
+#conclusion{
+    font-size:30px;
+    background-color:brown;
+    color: white;
+}
+h4{
+    color:rgb(255, 255, 255);
+}
+#c1{
+    color:black;
+}
